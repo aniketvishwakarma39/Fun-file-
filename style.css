@@ -1,0 +1,48 @@
+body{
+    background-color: blue;
+}
+img{
+    height:150px;
+    width:150px;
+    border-radius:50%;
+    border:2px solid transparent;
+    outline:2px solid blue;
+    margin-top:20px;
+}
+#project{
+    height:340px;
+    width:500px;
+    background-color:white;
+    justify-content: center;
+    text-align: center;
+    margin-top:125px;
+    margin-left:350px;
+    border-radius:10px;
+}
+#button{
+    display:inline-block
+}
+#head{
+    color:blue;
+}
+#yes-btn{
+    background-color: blue;
+    color:white;
+    border-radius:10px;
+    width:100px;
+    margin-right:50px;
+    height:30px;
+}
+#no-btn{
+    color:blue;
+    border:1px solid blue;
+    border-radius:10px;
+    width:100px;
+    height:30px;
+    
+}
+
+
+
+
+
